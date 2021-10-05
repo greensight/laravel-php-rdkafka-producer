@@ -1,5 +1,7 @@
 # Laravel PHP Rdkafka Producer
 
+`Deprecated, use https://github.com/ensi-platform/laravel-php-rdkafka-producer instead`
+
 Opiniated High Level producer for [greensight/laravel-phprdkafka](https://github.com/greensight/laravel-php-rdkafka)
 
 ## Installation
